@@ -9,8 +9,8 @@ Currently focused on:
 - Software Engineering Fundamentals
 
 Projects:
-- Real-Time Chat Application
-- Rework (AI Workspace)
+- Real-Time Chat Application -> Rework (AI Workspace)
 - AI-powered PDF Summarizer
+- learning projects & open projects as well
 
 Open to Backend and Software Engineering internships.
